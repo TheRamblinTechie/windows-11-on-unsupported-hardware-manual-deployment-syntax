@@ -38,7 +38,4 @@ bcdboot Z:\Windows /s W:
 
 wpeutil reboot
 
-[NOTE: Do NOT boot from USB, rather, let it boot from the hard disk(system partition).
-Also, dont' forget to choose your edition of Windows properly. And, to trigger the
-command prompt, use the shortcut Shift+F10 in the installer. Or, just watch the video on my 
-Tech channel @TechLivieOfficial2023.]
+DISCLAIMER: This will install Windows 11 Education. The Command Prompt can be triggered by pressing Shift + F10.
